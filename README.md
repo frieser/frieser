@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frieser" alt="frieser" /> </p>
 
-- 📝 I regulary write articles on [blog.frieserlabs.dev](blog.frieserlabs.dev)
+- 📝 I regulary write articles on [blog.frieserlabs.dev](https://blog.frieserlabs.dev)
 
 - 💬 Ask me about **golang, kubernetes, ansible, git...**
 
