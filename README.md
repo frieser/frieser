@@ -10,6 +10,7 @@
 - 📫 How to reach me **fiti.pol@gmail.com**
 
 - :trophy: Certifications:
+* [RHCSA: Red Hat Certified System Administrator](https://rhtapps.redhat.com/certifications/badge/verify/EDTJDQUMAHKBUFIL5WCCYGHE34AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
 * [CKAD: Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/7e5a375a-a160-5fb9-a172-fadd184c1adb-hector-molano-macias-certified-kubernetes-application-developer-ckad-certificate.pdf)
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-12&ci=AWS01141440)
 * [AWS Certified Cloud Practitioner](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2020-02-17&ci=AWS01141440)
