@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [blog.frieserlabs.dev](https://blog.frieserlabs.dev)
 
-- 💬 Ask me about **golang, kubernetes, ansible, linux...**
+- 💬 Ask me about **golang, kubernetes, ansible, terraform, linux...**
 
 - 📫 How to reach me **fiti.pol@gmail.com**
 
