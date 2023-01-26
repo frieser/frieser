@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **golang, kubernetes, ansible, terraform, linux...**
 
-- 📫 How to reach me **fiti.pol@gmail.com**
+- 📫 How to reach me **frieserpaldi@gmail.com**
 
 - :trophy: Certifications:
 * [RHCSA: Red Hat Certified System Administrator](https://rhtapps.redhat.com/certifications/badge/verify/EDTJDQUMAHKBUFIL5WCCYGHE34AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
