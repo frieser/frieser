@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hector Molano</h1>
-<h3 align="center">A Golang/DevOps Engineer</h3>
+<h3 align="center">A Golang/Infra Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frieser" alt="frieser" /> </p>
 
